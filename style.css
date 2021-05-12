@@ -1,0 +1,57 @@
+body {
+  background:rgba(230, 255, 250,1);
+}
+p {
+  color: black;
+  text-align: center;
+  font-family:"Courier New", monospace;
+  font-size:15px;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  font-family:"Brush Script MT", cursive;
+  padding-left:0px;
+  padding-right:0px;
+  font-size:30px;
+  width:103%;
+  margin-left:-8px;
+  margin-right:0px;
+  margin-top:-8px;
+  margin-bottom:0px;
+  padding:9px 0px 15px 0px;
+  background-image: linear-gradient(to bottom right, rgba(3, 252, 90, 1), rgba(3, 252, 202, 1));
+}
+h2 {
+  text-align: center;
+  font-family:"Brush Script MT", cursive;
+  margin-top:0px;
+  margin-bottom:0px;
+  padding-top:15px;
+  padding-bottom:5px;
+  color: rgba(20, 64, 56);
+}
+img {
+  align-content: center;
+  width:40%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px double black;
+  margin-top:0px;
+  margin-bottom:0px;
+}
+#citation {
+  color: gray;
+  margin-top:0px;
+  margin-bottom:0px;
+  margin-left:auto;
+  margin-right:auto;
+  font-size:9.5px;
+  float:middle;
+  padding-top:2px;
+}
+#txt {
+  margin-top:5px;
+  width:100%
+}
